@@ -1,0 +1,23 @@
+[
+    {
+        "id": "13695167",
+        "property_type": "Villa",
+        "price": {
+            "value": 7600000,
+            "currency": "AED",
+            "period": "sell"
+        },
+        "title": "Iconic Location | High End 4BR Villa | Park View",
+        "location": {
+            "full_name": "Saadiyat Lagoons, Saadiyat Island, Abu Dhabi",
+            "coordinates": {
+                "lat": 24.551378,
+                "lon": 54.441139
+            }
+        },
+        "agent": {
+            "name": "Farhat Abbas",
+            "email": "shahzaib@egcp.ae"
+        }
+    }
+]
